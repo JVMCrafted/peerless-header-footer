@@ -16,8 +16,8 @@
 	// FOR WORDPRESS HOSTING: Use window.location.origin
 	//
 	// const WP_SITE_URL = "http://peerless-pump.local"; // Uncomment for local hosting
-	const WP_SITE_URL = "https://peerlesspumdev.wpenginepowered.com"; // Uncomment for development hosting
-	// const WP_SITE_URL = "https://peerlesspump.com"; // Uncomment for production hosting
+	// const WP_SITE_URL = "https://peerlesspumdev.wpenginepowered.com"; // Uncomment for development hosting
+	const WP_SITE_URL = "https://peerlesspump.com"; // Uncomment for production hosting
 
 	const WP_API_BASE = `${WP_SITE_URL}/wp-json/wp/v2`;
 	const WP_CUSTOM_API = `${WP_SITE_URL}/wp-json/custom/v1`;
